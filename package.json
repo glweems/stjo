@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-ts-hello-world",
+  "name": "stjo",
   "version": "1.0.0",
   "description": "Typescript Starter with the bare essentials needed for a Gatsby site",
   "scripts": {
@@ -20,18 +20,20 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "gatsby": "2.15.12",
+    "gatsby": "2.19.8",
     "gatsby-plugin-sass": "2.1.14",
     "gatsby-plugin-typescript": "2.1.7",
     "node-sass": "4.12.0",
     "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react-dom": "16.9.0",
+    "styled-components": "5.0.0"
   },
   "devDependencies": {
     "@types/node": "12.7.4",
     "@types/node-sass": "4.11.0",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "@types/styled-components": "4.4.2",
     "@typescript-eslint/eslint-plugin": "2.2.0",
     "@typescript-eslint/parser": "2.2.0",
     "eslint": "6.3.0",
@@ -44,7 +46,7 @@
     "stylelint-config-recommended": "2.2.0",
     "typed-css-modules": "0.6.2",
     "typed-scss-modules": "0.0.12",
-    "typescript": "3.6.2"
+    "typescript": "3.7.5"
   },
   "repository": {
     "type": "git",
